@@ -1,2 +1,1 @@
-# Geometry-Dash-Game-Project-Cpp
-Object avoiding game named "Geometry Dash" without GUI.
+Developed a C++ game resembling the Google Chrome Dinosaur game without a GUI. Built for my semester project, it runs on a compiler environment. Implemented character movement, obstacle generation, collision detection, and scoring system. Showcased programming skills and problem-solving abilities while creating an engaging gaming experience.
